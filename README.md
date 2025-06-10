@@ -16,6 +16,7 @@
 - Accuracy: 0.97
 - ROC-AUC: 0.89
 - Матрица ошибок
+- Classification Report
 
 **Предобработка:**
 1. Удаление нефункциональных признаков (UDI, Product ID)
